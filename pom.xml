@@ -46,6 +46,10 @@
       <id>bukkit-repo</id>
       <url>https://hub.spigotmc.org/nexus/content/groups/public</url>
     </repository>
+    <repository>
+      <id>tealcube-repo</id>
+      <url>http://maven.tealcube.com/content/groups/public</url>
+    </repository>
   </repositories>
 
   <dependencies>
